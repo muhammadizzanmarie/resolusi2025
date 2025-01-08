@@ -2,5 +2,5 @@ Pencapaian Goals :
 1. Mampu belajar git
 2. Mampu belajar html css dan js
 3. mampu belajar di petik
-4. Melihat Dani Dan Patur Bahagia
+4. Melihat isro Dan Patur Bahagia
 5. mampu ui ux php dll
